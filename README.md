@@ -1,9 +1,9 @@
- (https://media-exp1.licdn.com/dms/image/C4E16AQHPjnmUKGaCJQ/profile-displaybackgroundimage-shrink_200_800/0/1602606888046?e=1649289600&v=beta&t=dmQ4K4_babCA0BBCW8_GKbaqpcqGohdWDKUTcmQ2xXc)
+![I am a Web Designer] (https://media-exp1.licdn.com/dms/image/C4E16AQHPjnmUKGaCJQ/profile-displaybackgroundimage-shrink_200_800/0/1602606888046?e=1649289600&v=beta&t=dmQ4K4_babCA0BBCW8_GKbaqpcqGohdWDKUTcmQ2xXc)
 
 
 ### Hi there 👋, I'm Juel Hawlader
 #### I am a Web Designer
-![I am a Web Designer]
+
 
 Web Developer with knowledge of HTML, CSS, Bootstrap, WordPress Elementor. Working in a team environment, capable of solving problems under pressure and adapting to changes in order to achieve the desired results. Always seeking to learn new skills and improve on existing ones to provide the best performance possible. Also, I am looking for a job as a Web Designer.
 
