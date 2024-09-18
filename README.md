@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋, I'm Juel Hawlader
-#### I am a Web Designer
+#### I am a FrontEnd Developer
 
 
 Web Developer with knowledge of HTML, CSS, Bootstrap, WordPress Elementor. Working in a team environment, capable of solving problems under pressure and adapting to changes in order to achieve the desired results. Always seeking to learn new skills and improve on existing ones to provide the best performance possible. Also, I am looking for a job as a Web Designer.
